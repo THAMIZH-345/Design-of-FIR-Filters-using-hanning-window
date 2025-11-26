@@ -83,6 +83,5 @@ xgrid();
 <img width="757" height="713" alt="505963925-0f249c02-e4f3-41da-b437-8abc4f890dab" src="https://github.com/user-attachments/assets/314091f4-3884-4145-b1c0-39b83b04ceec" />
 <img width="753" height="714" alt="505964095-32a18653-e7d6-410d-aa85-d645a0798a88" src="https://github.com/user-attachments/assets/0b75690e-bd4f-471b-b6ba-311594366d9a" />
 
-
 # RESULT
 LOW PASS FIR FILTER USING HANNING WINDOW IN SCILAB IS DESIGNED.
